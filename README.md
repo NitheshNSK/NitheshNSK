@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NitheshNSK
-- 👀 I’m interested in FullStackDevelopment,ArtificialIntelligence,MachineLearning and ComputerVision
+- 👀 I’m interested in FullStackDevelopment,ArtificialIntelligence,MachineLearning
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on ML and Web3
 - 📫 How to reach me gmail : sahashnsk@gmail.com
